@@ -1,0 +1,11 @@
+#spring:
+#  datasource:
+#    username: root
+#    password: Alecsutza(1308)
+#    url: jdbc:mysql://localhost:3306/art_of_building_spring
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties.hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
